@@ -8,6 +8,8 @@ We can suggest engineering + machine learning Jargon in the proposal. However, I
 
 Also, it will be great if we can put some Positive numbers of improvement that can be affected using Machine learning. 
 
+6) Not sure, if we should put what we will need ? such as system requirements , data requirements and Business insights.
+
 # Fraud-Detection-Techniques
 
 Techniques used for fraud detection fall into two primary classes: statistical techniques and artificial intelligence.[3] Examples of statistical data analysis techniques are:
