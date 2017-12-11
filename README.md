@@ -1,6 +1,6 @@
 We can suggest engineering + machine learning Jargon in the proposal. However, I suggest we stick to the below for the 1 page proposal. 
 
-1) Why there is a need to Move to Machine learning and AI based Fraud Detection Techniques.  ( Covered in some of Abhisheks Documents ) 
+1) Why there is a need to Move to Machine learning and AI based Fraud Detection Techniques in todays age.  ( Covered in some of Abhisheks Documents ) 
 2) Why has it become easier now than before ? ( we can paraphrase this ) 
 3) Why old methods are obsolete ? ( We can put some comparitive study ) 
 4) Advantages of moving to Data Science based Fraud Detection Techniques ( We can put few points ) 
